@@ -15,7 +15,27 @@
 ### Tech & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,js,ts,html,css,tailwind,react,vite,docker,blender&theme=dark" />
+<table>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="32" height="32" align="center" alt="Next.js" /> Next.js</td>
+    <td><img src="https://skillicons.dev/icons?i=js&theme=dark" width="32" height="32" align="center" alt="JavaScript" /> JavaScript</td>
+    <td><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="32" height="32" align="center" alt="TypeScript" /> TypeScript</td>
+    <td><img src="https://skillicons.dev/icons?i=html&theme=dark" width="32" height="32" align="center" alt="HTML" /> HTML</td>
+    <td><img src="https://skillicons.dev/icons?i=css&theme=dark" width="32" height="32" align="center" alt="CSS" /> CSS</td>
+  </tr>
+  <tr>
+    <td><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="32" height="32" align="center" alt="Tailwind CSS" /> Tailwind CSS</td>
+    <td><img src="https://skillicons.dev/icons?i=react&theme=dark" width="32" height="32" align="center" alt="React" /> React</td>
+    <td><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="32" height="32" align="center" alt="Vite" /> Vite</td>
+    <td><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="32" height="32" align="center" alt="Docker" /> Docker</td>
+    <td><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="32" height="32" align="center" alt="Postman" /> Postman</td>
+  </tr>
+  <tr>
+    <td><img src="assets/icons/sql.svg" width="32" height="32" align="center" alt="SQL" /> SQL</td>
+    <td><img src="assets/icons/burpsuite.svg" width="32" height="32" align="center" alt="Burp Suite" /> Burp Suite</td>
+    <td><img src="assets/icons/autopsy.png" width="32" height="32" align="center" alt="Autopsy" /> Autopsy</td>
+  </tr>
+</table>
 </div>
 <br>
 
