@@ -21,8 +21,6 @@
 
 <div align="center">
 
-<img src= "https://i.pinimg.com/originals/54/04/86/54048625ce70e4041840822971749a0f.gif">
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,100:000000&height=120&section=footer)
 
 </div>
