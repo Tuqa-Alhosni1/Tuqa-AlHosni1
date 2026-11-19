@@ -17,27 +17,27 @@
 <div align="center">
 <table>
   <tr>
-    <td width="160"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="32" height="32" align="center" alt="Next.js" /> Next.js</td>
-    <td width="160"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="32" height="32" align="center" alt="JavaScript" /> JavaScript</td>
-    <td width="160"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="32" height="32" align="center" alt="TypeScript" /> TypeScript</td>
-    <td width="160"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="32" height="32" align="center" alt="HTML" /> HTML</td>
+    <td width="160"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="32" height="32" align="absmiddle" alt="Next.js" /> Next.js</td>
+    <td width="160"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="32" height="32" align="absmiddle" alt="JavaScript" /> JavaScript</td>
+    <td width="160"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="32" height="32" align="absmiddle" alt="TypeScript" /> TypeScript</td>
+    <td width="160"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="32" height="32" align="absmiddle" alt="HTML" /> HTML</td>
   </tr>
 </table>
 <table>
   <tr>
-    <td width="160"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="32" height="32" align="center" alt="CSS" /> CSS</td>
-    <td width="160"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="32" height="32" align="center" alt="Tailwind CSS" /> Tailwind&nbsp;CSS</td>
-    <td width="160"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="32" height="32" align="center" alt="React" /> React</td>
-    <td width="160"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="32" height="32" align="center" alt="Vite" /> Vite</td>
-    <td width="160"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="32" height="32" align="center" alt="Docker" /> Docker</td>
+    <td width="160"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="32" height="32" align="absmiddle" alt="CSS" /> CSS</td>
+    <td width="160"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="32" height="32" align="absmiddle" alt="Tailwind CSS" /> Tailwind&nbsp;CSS</td>
+    <td width="160"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="32" height="32" align="absmiddle" alt="React" /> React</td>
+    <td width="160"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="32" height="32" align="absmiddle" alt="Vite" /> Vite</td>
+    <td width="160"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="32" height="32" align="absmiddle" alt="Docker" /> Docker</td>
   </tr>
 </table>
 <table>
   <tr>
-    <td width="160"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="32" height="32" align="center" alt="Postman" /> Postman</td>
-    <td width="160"><img src="assets/icons/sql.svg" width="32" height="32" align="center" alt="SQL" /> SQL</td>
-    <td width="160"><img src="assets/icons/burpsuite.svg" width="32" height="32" align="center" alt="Burp Suite" /> Burp&nbsp;Suite</td>
-    <td width="160"><img src="assets/icons/autopsy.png" width="32" height="32" align="center" alt="Autopsy" /> Autopsy</td>
+    <td width="160"><img src="https://skillicons.dev/icons?i=postman&theme=dark" width="32" height="32" align="absmiddle" alt="Postman" /> Postman</td>
+    <td width="160"><img src="assets/icons/sql.svg" width="32" height="32" align="absmiddle" alt="SQL" /> SQL</td>
+    <td width="160"><img src="assets/icons/burpsuite.svg" width="32" height="32" align="absmiddle" alt="Burp Suite" /> Burp&nbsp;Suite</td>
+    <td width="160"><img src="assets/icons/autopsy.png" width="32" height="32" align="absmiddle" alt="Autopsy" /> Autopsy</td>
   </tr>
 </table>
 </div>
