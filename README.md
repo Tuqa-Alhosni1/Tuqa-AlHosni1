@@ -9,8 +9,9 @@
 </div> 
 
 ### About Me
-- Passionate about **Frontend Development & UI Design**
-- Interested in web security, clean interfaces, and building things that are both safe *and* beautiful
+- Passionate about Web & Application development
+- Comfortable in web security and pretty design, so I build things that are both safe *and* beautiful
+- Interested in learning game development and 3D Modelling from scratch
 
 ### Tech & Tools
 
